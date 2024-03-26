@@ -4,7 +4,6 @@ import Sidebar from "./Components/Sidebar";
 function App() {
   return (
     <div>
-      <h1 className="">Shubham Adelkar</h1>
       {/* Header */}
       <Header />
 
