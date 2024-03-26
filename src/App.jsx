@@ -6,10 +6,12 @@ function App() {
     <div>
       {/* Header */}
       <Header />
-
-      {/* Sidebar */}
-      <Sidebar />
-
+      
+      <aside>
+        {/* Sidebar */}
+        <Sidebar />
+      
+      </aside>
       {/* React Router */}
     </div>
   );
