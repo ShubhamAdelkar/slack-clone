@@ -23,7 +23,7 @@ export default function Sidebar() {
             <h3 className="">imbachhu</h3>
           </div>
         </div>
-        <ModeEditIcon className="scale-150 bg-white text-black rounded-full p-1" />
+        <ModeEditIcon className="scale-150 bg-white text-black rounded-full p-1 cursor-pointer" />
       </div>
 
       <div className="border-b border-[#592f5b]">
